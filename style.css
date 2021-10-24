@@ -84,9 +84,16 @@ h1 {
 }
 
 h2 {
-	font-size:100%;
+	font-size:200%;
 	color:#fff;
 	font-weight:400;
+}
+h3 {
+
+       font-size:200%;
+       color:#fff;
+       font-weight:400;
+
 }
 
 /*** HEADER SECTION ****/
