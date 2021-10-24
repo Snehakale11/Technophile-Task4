@@ -76,7 +76,7 @@ input[type=submit]:hover {
 
 h1 {
 
-	font-size:300%;
+	font-size:400%;
 	color:#fff;
 	font-weight:400;
 	margin-bottom:20px;
@@ -88,13 +88,7 @@ h2 {
 	color:#fff;
 	font-weight:400;
 }
-h3 {
 
-       font-size:200%;
-       color:#fff;
-       font-weight:400;
-
-}
 
 /*** HEADER SECTION ****/
 
